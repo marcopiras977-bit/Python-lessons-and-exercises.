@@ -31,3 +31,9 @@ Migliorare continuamente le mie competenze di programmazione e costruire un port
 - GitHub
 
 Grazie per la visita!
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)
