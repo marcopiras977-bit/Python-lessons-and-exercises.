@@ -1,0 +1,11 @@
+id_macchina, temperatura, stato
+M1,75,ON
+M2,90,ON
+M3,45,OFF
+M4,88,ON
+M1,95,ON
+M2,60,ON
+M3,0,OFF
+M4,70,ON
+M1,85,ON
+M2,110,ON

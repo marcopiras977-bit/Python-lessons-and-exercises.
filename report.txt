@@ -1,0 +1,3 @@
+Totale letture:
+Numero allarmi:
+Macchine OFF:
